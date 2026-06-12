@@ -6,3 +6,5 @@ I am a 10-year-old technology enthusiast and developer from Brazil. I am passion
 - 💻 **Current Steps:** Building my foundation in programming, starting with Python and C#.
 - 🚀 **Next Steps:** Driven by curiosity to explore deeper aspects of computer science and systems architecture every day.
 - 🎯 **Goals:** Developing projects, learning advanced logic, and preparing my portfolio for the future.
+
+(my dad put this AI generated one, i dont like it ):)
