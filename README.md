@@ -7,4 +7,4 @@ I am a 10-year-old technology enthusiast and developer from Brazil. I am passion
 - 🚀 **Next Steps:** Driven by curiosity to explore deeper aspects of computer science and systems architecture every day.
 - 🎯 **Goals:** Developing projects, learning advanced logic, and preparing my portfolio for the future.
 
-(my dad put this AI generated one, i dont like it ):)
+(my dad put this AI generated one, i dont like it ): )
